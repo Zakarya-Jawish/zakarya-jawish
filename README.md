@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">We can also contact:</h2>
+<h2 align="left">Contact whit me on:</h2>
 
 ###
 
