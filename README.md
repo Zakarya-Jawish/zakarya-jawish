@@ -11,10 +11,10 @@
 ###
 
 <ul>
-  <li>✨ Passionate about crafting beautiful and efficient mobile applications using Flutter.</li>
-  <li>📚 Currently pursuing my studies in Software Development at the College of ITE at the SVU.</li>
-  <li>👦 Love using software as a solution for every problem.</li>
-  <li>💡 Solve at least one problem every day (Completed 700 consecutive days and solved +1200 problems on <a href="https://codeforces.com/profile/jawish" target="blank">CodeForces</a>).</li>
+  <li>✨ Passionate about crafting beautiful and efficient mobile applications using Flutter.</li></br>
+  <li>📚 Currently pursuing my studies in Software Development at the College of ITE at the SVU.</li></br>
+  <li>👦 Love using software as a solution for every problem.</li></br>
+  <li>💡 Solve at least one problem every day (Completed 700 consecutive days and solved +1200 problems on <a href="https://codeforces.com/profile/jawish" target="blank">CodeForces</a>).</li></br>
   <li>📫 How to reach me: <a href="mailto:zakaryajawish@gmail.com">zakaryajawish@gmail.com</a></li>
 </ul>
 
